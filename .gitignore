@@ -1,3 +1,7 @@
 *.sw*
 *.pyc
 *.py~
+authTokens.txt
+authTokens.txt*
+myConsumerToken.txt
+myConsumerToken.txt*
